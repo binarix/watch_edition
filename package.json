@@ -38,7 +38,7 @@
     "lodash": "^4.17.5",
     "node-sass": "^4.7.2",
     "sass-loader": "^3.2.3",
-    "style-loader": "^0.13.1",
+    "style-loader": "^0.23.1",
     "url-loader": "^0.5.7",
     "watch-framework": "file:./framework/"
   },
